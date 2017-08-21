@@ -1,0 +1,39 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+.animal-resume{
+    width: 800px;
+    margin: auto;
+    margin-top: 60px;
+
+}
+.top-section,
+.botton-section {
+    width: 100%;
+    padding: 40px;
+}
+
+.top-section {
+        background-color:darksalmon;
+}
+.botton-section {
+     background-color:beige;
+}
+.niko-photo {
+    width: 100%;
+}
+.left-section {
+    width: 350px;
+                display: inline-block;
+                margin-right: 200px;
+}
+.right-section {
+     width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+.favourite {
+    width: 250px;
+                display: inline-block;
+                vertical-align: top; 
+}

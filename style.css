@@ -1,0 +1,87 @@
+            
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+                .kontener {
+                border: 5px solid black;
+                width: 800px;
+                margin:auto;
+                margin-top: 60px;
+                padding: 20px;
+                background-color: lightblue
+            }
+            .naglowek {
+                text-align: center;
+            }
+            .opis {
+              width: 350px;
+                display: inline-block;
+                margin-right: 200px;
+            }
+            .zdjecie {
+                width: 200px;
+                display: inline-block;
+                vertical-align: top;
+            }
+            .lista1 {
+               width: 200px;
+                display: inline-block;
+                vertical-align: top; 
+            }
+             .zdjecie2 {
+                width: 250px;
+                height: 250px;
+                display: inline-block;
+                vertical-align: top;
+            }
+            
+            .nawigacja{
+                width: 800px;
+                margin: auto;
+                display: flex;
+                justify-content: space-around;
+                margin-top: 40px;
+            }
+ /*            nawigacja*/           
+            .nawigacja a {
+                font-size: 20px;
+                color: black;
+                text-decoration: none;
+            }
+            .nawigacja a:hover {
+                border-bottom: 1px solid black;
+            }
+            
+            .projekt {
+            width: 800px;
+            margin: auto;
+            margin-top: 60px;
+            display: flex;
+            
+            }
+.lewa-sekcja, 
+.prawa-sekcja {
+    width: 50%;
+    padding: 40px;
+}
+
+.lewa-sekcja {
+    background-color: bisque;
+}
+.zdjecie-Karolina{
+    width: 100%;
+}
+
+.prawa-sekcja {
+    background-color: cornflowerblue;
+}
+.lewa-sekcja h1, 
+.lewa-sekcja p {
+    color: dimgray;
+}
+button {
+    background: cornflowerblue;
+    border: none;
+    padding: 10px 15px;
+    
+}
