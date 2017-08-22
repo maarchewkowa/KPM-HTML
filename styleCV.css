@@ -23,12 +23,12 @@ body {
     width: 100%;
 }
 .left-section {
-    width: 350px;
-                display: inline-block;
+    width: 250px;
+    display: inline-block;
                 margin-right: 200px;
 }
 .right-section {
-     width: 200px;
+    width: 300px;
     display: inline-block;
     vertical-align: top;
 }
