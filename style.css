@@ -85,3 +85,12 @@ button {
     padding: 10px 15px;
     
 }
+
+@media screen and (max-width: 1000px) {
+    .kontener {
+        width: 60%;
+    }
+    .zdjecie {
+        width: 200px;
+    }
+}
