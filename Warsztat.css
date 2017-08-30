@@ -1,0 +1,77 @@
+.navbar-right {
+    justify-content: flex-end;
+}
+.bg-purple {
+    background-color: #87509c !important;
+}
+.text-white {
+    color: white !important;
+}
+.first-section {
+    background-color: #87509c;
+}
+.first-section h1 {
+    text-align: center;
+    color: white;
+    padding: 150px 0;
+    max-width: 900px;
+    margin: auto;
+}
+.second-section {
+    background-color: #18c2a4;
+}
+.second-section h1,
+.second-section p {
+    text-align: center;
+    color: white;
+    padding: 40px 0 0;
+    max-width: 600px;
+    margin: auto;
+}
+.image {
+    width: 100%;
+}
+.row-one {
+   padding: 40px 0; 
+}
+.header-small {
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+}
+.third-section {
+    background-color: #ffdd99;
+    text-align: center
+}
+.third-section h1,
+.third-section p {
+    text-align: center;
+    padding: 40px 0 0;
+    max-width: 600px;
+    margin: auto;
+}
+.row-two {
+   padding: 40px 0;     
+}
+.fourth-section {
+    background-color: #3c5499;
+    padding-bottom: 40px;
+}
+.fourth-section h1,
+.fourth-section p{
+    text-align: center;
+    color: white;
+    max-width: 800px;
+    margin: auto;
+}
+.fourth-section h1{
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.contact-text {
+    padding-bottom: 40px;
+    padding-top: 40px; 
+}
+.element-link:hover {
+    text-decoration: none;
+}
